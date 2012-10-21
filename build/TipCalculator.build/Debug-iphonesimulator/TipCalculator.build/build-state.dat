@@ -1,0 +1,260 @@
+TTipCalculator
+v7
+r3
+t371357635.141043
+cCheck dependencies
+cProcessInfoPlistFile /Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app/Info.plist TipCalculator-Info.plist
+cCompileXIB /Users/preethi_sriram/IphoneApp/TipCalculator/MainWindow.xib
+cCompileXIB /Users/preethi_sriram/IphoneApp/TipCalculator/TipCalculatorViewController.xib
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorAppDelegate.h
+c000000004DC759400000000000000208
+t1304910144
+s520
+i<UIKit/UIKit.h>
+
+N/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorAppDelegate.m
+c000000004DD0A12D0000000000000A9D
+t1305518381
+s2717
+i"TipCalculatorAppDelegate.h"
+i"TipCalculatorViewController.h"
+
+N/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorViewController.h
+c000000004DDDC1330000000000000309
+t1306378547
+s777
+i<UIKit/UIKit.h>
+
+N/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorViewController.m
+c000000004EE023BA0000000000000E1F
+t1323312058
+s3615
+i"TipCalculatorViewController.h"
+
+N/Users/preethi_sriram/IphoneApp/TipCalculator/MainWindow.xib
+c000000004DC759400000000000004E71
+t1304910144
+s20081
+
+N/Users/preethi_sriram/IphoneApp/TipCalculator/TipCalculatorViewController.xib
+c000000004DEBF6F60000000000008075
+t1307309814
+s32885
+
+N/Users/preethi_sriram/IphoneApp/TipCalculator/TipCalculator_Prefix.pch
+c000000004DC7594000000000000000C3
+t1304910144
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app
+t1347669277
+s204
+
+N/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app.dSYM
+t1306378547
+s102
+
+N/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app/Info.plist
+t1305517240
+s615
+
+N/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app/MainWindow.nib
+t1305517241
+s1135
+
+N/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app/PkgInfo
+t1305517240
+s8
+
+N/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app/TipCalculator
+t1306378547
+s24948
+
+N/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app/TipCalculatorViewController.nib
+t2
+s0
+
+N/Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/i386/TipCalculator.LinkFileList
+c000000004DD09CB800000000000001D2
+t1305517240
+s466
+
+N/Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/i386/TipCalculatorAppDelegate.o
+t1306378547
+s51156
+
+N/Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/i386/TipCalculatorViewController.o
+t1306378547
+s54328
+
+N/Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/i386/main.o
+t1305517242
+s6316
+
+N/Users/preethi_sriram/IphoneApp/TipCalculator/main.m
+c000000004DC759400000000000000174
+t1304910144
+s372
+i<UIKit/UIKit.h>
+
+N/var/folders/2t/s5vg4nsd45bflyc09ts5_5_80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TipCalculator_Prefix-fgfemztceflqjvelsftnbtgdqepm/TipCalculator_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/3f/3f7Rj7L9G3KuTa+Hf7J3IU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TipCalculator_Prefix-fgfemztceflqjvelsftnbtgdqepm/TipCalculator_Prefix.pch.gch
+t1305517242
+s15453392
+
+NTipCalculator-Info.plist
+c000000004DC75940000000000000038D
+t1304910144
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies371357594#371357594#0(0"0(0#1#0"4320133120#0"0#
+
+CCompileC build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/i386/TipCalculatorAppDelegate.o /Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328071347.582094
+e328071347.714001
+r1
+xCompileC
+xbuild/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/i386/TipCalculatorAppDelegate.o
+x/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorAppDelegate.m:88: warning: property 'viewController' requires method '-viewController' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorAppDelegate.m:88: warning: property 'viewController' requires the method 'setViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@88"Compile /Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorAppDelegate.m328071347#328071347#0(469"/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorAppDelegate.m:88: warning: property 'viewController' requires method '-viewController' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorAppDelegate.m:88: warning: property 'viewController' requires the method 'setViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation2(22@136"Property 'viewController' requires method '-viewController' to be defined - use @synthesize, @dynamic or provide a method implementation328071347#0#231#0(6@80"/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorAppDelegate.m327211181#88#0#88#0#0"0(22@143"Property 'viewController' requires the method 'setViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation328071347#231#238#0(6@80"/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorAppDelegate.m327211181#88#0#88#0#0"0(0#0#80"/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorAppDelegate.m8590297856#2159"    cd /Users/preethi_sriram/IphoneApp/TipCalculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/TipCalculator-generated-files.hmap -I/Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/TipCalculator-own-target-headers.hmap -I/Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/TipCalculator-all-target-headers.hmap -iquote /Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/TipCalculator-project-headers.hmap -F/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator -I/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/include -I/Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/DerivedSources/i386 -I/Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/DerivedSources -include /var/folders/3f/3f7Rj7L9G3KuTa+Hf7J3IU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TipCalculator_Prefix-fgfemztceflqjvelsftnbtgdqepm/TipCalculator_Prefix.pch -c /Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorAppDelegate.m -o /Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/i386/TipCalculatorAppDelegate.o0#
+
+CCompileC build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/i386/TipCalculatorViewController.o /Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328071347.583114
+e328071347.752935
+r1
+xCompileC
+xbuild/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/i386/TipCalculatorViewController.o
+x/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorViewController.m: In function '-[TipCalculatorViewController CalculateTip]':
+o/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorViewController.m:18: warning: unused variable 'amount_val'
+lSLF07#2@91"Compile /Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorViewController.m328071347#328071347#0(270"/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorViewController.m: In function '-[TipCalculatorViewController CalculateTip]':/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorViewController.m:18: warning: unused variable 'amount_val'1(22@28"Unused variable 'amount_val'328071347#144#126#0(6@83"/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorViewController.m328071347#18#0#18#0#19"unused variable '*'0(0#0#83"/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorViewController.m8614257568#2165"    cd /Users/preethi_sriram/IphoneApp/TipCalculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/TipCalculator-generated-files.hmap -I/Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/TipCalculator-own-target-headers.hmap -I/Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/TipCalculator-all-target-headers.hmap -iquote /Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/TipCalculator-project-headers.hmap -F/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator -I/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/include -I/Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/DerivedSources/i386 -I/Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/DerivedSources -include /var/folders/3f/3f7Rj7L9G3KuTa+Hf7J3IU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TipCalculator_Prefix-fgfemztceflqjvelsftnbtgdqepm/TipCalculator_Prefix.pch -c /Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorViewController.m -o /Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/i386/TipCalculatorViewController.o0#
+
+CCompileC build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/i386/main.o /Users/preethi_sriram/IphoneApp/TipCalculator/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327210042.470021
+e327210042.659586
+r1
+xCompileC
+xbuild/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/i386/main.o
+x/Users/preethi_sriram/IphoneApp/TipCalculator/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/preethi_sriram/IphoneApp/TipCalculator/main.m327210042#327210042#0(0"0(0#0#52"/Users/preethi_sriram/IphoneApp/TipCalculator/main.m8617196160#2111"    cd /Users/preethi_sriram/IphoneApp/TipCalculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/TipCalculator-generated-files.hmap -I/Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/TipCalculator-own-target-headers.hmap -I/Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/TipCalculator-all-target-headers.hmap -iquote /Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/TipCalculator-project-headers.hmap -F/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator -I/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/include -I/Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/DerivedSources/i386 -I/Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/DerivedSources -include /var/folders/3f/3f7Rj7L9G3KuTa+Hf7J3IU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TipCalculator_Prefix-fgfemztceflqjvelsftnbtgdqepm/TipCalculator_Prefix.pch -c /Users/preethi_sriram/IphoneApp/TipCalculator/main.m -o /Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/preethi_sriram/IphoneApp/TipCalculator/MainWindow.xib
+s327210040.694404
+e327210041.169635
+r1
+xCompileXIB
+x/Users/preethi_sriram/IphoneApp/TipCalculator/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib327210040#327210041#0(0"0(0#0#60"/Users/preethi_sriram/IphoneApp/TipCalculator/MainWindow.xib8615469376#597"    cd /Users/preethi_sriram/IphoneApp/TipCalculator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app/MainWindow.nib /Users/preethi_sriram/IphoneApp/TipCalculator/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/preethi_sriram/IphoneApp/TipCalculator/TipCalculatorViewController.xib
+s371357594.546474
+e371357635.140974
+r0
+xCompileXIB
+x/Users/preethi_sriram/IphoneApp/TipCalculator/TipCalculatorViewController.xib
+lSLF07#2@42"CompileXIB TipCalculatorViewController.xib371357594#371357635#0(0"0(0#0#77"/Users/preethi_sriram/IphoneApp/TipCalculator/TipCalculatorViewController.xib4320133120#631"    cd /Users/preethi_sriram/IphoneApp/TipCalculator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app/TipCalculatorViewController.nib /Users/preethi_sriram/IphoneApp/TipCalculator/TipCalculatorViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk2#
+
+CGenerateDSYMFile /Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app.dSYM /Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app/TipCalculator
+s328071347.778338
+e328071347.795656
+r1
+xGenerateDSYMFile
+x/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app.dSYM
+x/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app/TipCalculator
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/TipCalculator.app.dSYM build/Debug-iphonesimulator/TipCalculator.app/TipCalculator328071347#328071347#0(0"0(0#0#105"/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app/TipCalculator8614712704#422"    cd /Users/preethi_sriram/IphoneApp/TipCalculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app/TipCalculator -o /Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app.dSYM0#
+
+CLd /Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app/TipCalculator normal i386
+s328071347.753027
+e328071347.778244
+r1
+xLd
+x/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app/TipCalculator
+xnormal
+xi386
+lSLF07#2@110"Link /Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app/TipCalculator328071347#328071347#0(0"0(0#0#0"8615621248#965"    cd /Users/preethi_sriram/IphoneApp/TipCalculator    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator -F/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator -filelist /Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/i386/TipCalculator.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app/TipCalculator0#
+
+CProcessInfoPlistFile /Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app/Info.plist TipCalculator-Info.plist
+s327210040.665543
+e327210040.694307
+r1
+xProcessInfoPlistFile
+x/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app/Info.plist
+xTipCalculator-Info.plist
+lSLF07#2@32"Process TipCalculator-Info.plist327210040#327210040#0(0"0(0#0#70"/Users/preethi_sriram/IphoneApp/TipCalculator/TipCalculator-Info.plist32088624093986912#518"    cd /Users/preethi_sriram/IphoneApp/TipCalculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TipCalculator-Info.plist -genpkginfo /Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app/Info.plist0#
+
+CProcessPCH /var/folders/2t/s5vg4nsd45bflyc09ts5_5_80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TipCalculator_Prefix-fgfemztceflqjvelsftnbtgdqepm/TipCalculator_Prefix.pch.gch TipCalculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/3f/3f7Rj7L9G3KuTa+Hf7J3IU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TipCalculator_Prefix-fgfemztceflqjvelsftnbtgdqepm/TipCalculator_Prefix.pch.gch TipCalculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327210041.302709
+e327210042.469720
+r1
+xProcessPCH
+x/var/folders/3f/3f7Rj7L9G3KuTa+Hf7J3IU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TipCalculator_Prefix-fgfemztceflqjvelsftnbtgdqepm/TipCalculator_Prefix.pch.gch
+xTipCalculator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile TipCalculator_Prefix.pch327210041#327210042#0(0"0(0#0#70"/Users/preethi_sriram/IphoneApp/TipCalculator/TipCalculator_Prefix.pch8614039104#1990"    cd /Users/preethi_sriram/IphoneApp/TipCalculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/TipCalculator-generated-files.hmap -I/Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/TipCalculator-own-target-headers.hmap -I/Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/TipCalculator-all-target-headers.hmap -iquote /Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/TipCalculator-project-headers.hmap -F/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator -I/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/include -I/Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/DerivedSources/i386 -I/Users/preethi_sriram/IphoneApp/TipCalculator/build/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/DerivedSources -c /Users/preethi_sriram/IphoneApp/TipCalculator/TipCalculator_Prefix.pch -o /var/folders/3f/3f7Rj7L9G3KuTa+Hf7J3IU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TipCalculator_Prefix-fgfemztceflqjvelsftnbtgdqepm/TipCalculator_Prefix.pch.gch0#
+
+CTouch /Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app
+s328071347.795743
+e328071347.798277
+r1
+xTouch
+x/Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app
+lSLF07#2@97"Touch /Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app328071347#328071347#0(0"0(0#0#0"8614577728#298"    cd /Users/preethi_sriram/IphoneApp/TipCalculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/preethi_sriram/IphoneApp/TipCalculator/build/Debug-iphonesimulator/TipCalculator.app0#
+

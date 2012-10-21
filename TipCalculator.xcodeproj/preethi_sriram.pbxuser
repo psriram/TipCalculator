@@ -1,0 +1,255 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TipCalculatorAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {946, 326}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 520}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TipCalculatorAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1157}}";
+			sepNavSelRange = "{2238, 0}";
+			sepNavVisRange = "{0, 659}";
+			sepNavWindowFrame = "{{15, 58}, {750, 720}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TipCalculator */ = {
+		activeExec = 0;
+		executables = (
+			7A0D1C23137790C000DAE2B8 /* TipCalculator */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* TipCalculatorViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 390}}";
+			sepNavSelRange = "{373, 0}";
+			sepNavVisRange = "{3, 766}";
+			sepNavWindowFrame = "{{38, 58}, {750, 720}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* TipCalculatorViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {946, 1885}}";
+			sepNavSelRange = "{1622, 0}";
+			sepNavVisRange = "{1263, 592}";
+			sepNavWindowFrame = "{{15, 60}, {750, 718}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 7A0D1C23137790C000DAE2B8 /* TipCalculator */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TipCalculator */;
+		breakpoints = (
+		);
+		codeSenseManager = 7A0D1C30137790DF00DAE2B8 /* Code sense */;
+		executables = (
+			7A0D1C23137790C000DAE2B8 /* TipCalculator */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					671,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					783,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					743,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 371356713;
+			PBXWorkspaceStateSaveDate = 371356713;
+		};
+		perUserProjectItems = {
+			7AB90BEC1622779C00E0DF42 /* PBXTextBookmark */ = 7AB90BEC1622779C00E0DF42 /* PBXTextBookmark */;
+			7AB90BED1622779C00E0DF42 /* PBXTextBookmark */ = 7AB90BED1622779C00E0DF42 /* PBXTextBookmark */;
+			7AB90BF1162277C300E0DF42 /* PBXTextBookmark */ = 7AB90BF1162277C300E0DF42 /* PBXTextBookmark */;
+			7ACA838516220EE500DB513A /* PBXTextBookmark */ = 7ACA838516220EE500DB513A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 7A0D1C2F137790DF00DAE2B8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 335}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 372}";
+			sepNavWindowFrame = "{{15, 58}, {750, 720}}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* TipCalculator_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 335}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 195}";
+		};
+	};
+	7A0D1C23137790C000DAE2B8 /* TipCalculator */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TipCalculator;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	7A0D1C2F137790DF00DAE2B8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	7A0D1C30137790DF00DAE2B8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	7A34C8D71380D8AE00BFA14D /* MyView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = MyView.h;
+		path = /Users/preethi_sriram/IphoneApp/HelloWorld/MyView.h;
+		sourceTree = "<absolute>";
+	};
+	7AB90BEC1622779C00E0DF42 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TipCalculatorAppDelegate.h */;
+		name = "TipCalculatorAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 520;
+		vrLoc = 0;
+	};
+	7AB90BED1622779C00E0DF42 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TipCalculatorViewController.m */;
+		name = "TipCalculatorViewController.m: 81";
+		rLen = 0;
+		rLoc = 2127;
+		rType = 0;
+		vrLen = 819;
+		vrLoc = 1707;
+	};
+	7AB90BF1162277C300E0DF42 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TipCalculatorViewController.m */;
+		name = "TipCalculatorViewController.m: 65";
+		rLen = 0;
+		rLoc = 1622;
+		rType = 0;
+		vrLen = 592;
+		vrLoc = 1263;
+	};
+	7ACA838516220EE500DB513A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7A34C8D71380D8AE00BFA14D /* MyView.h */;
+		name = "MyView.h: 14";
+		rLen = 5;
+		rLoc = 199;
+		rType = 0;
+		vrLen = 204;
+		vrLoc = 0;
+	};
+}

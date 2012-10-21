@@ -1,0 +1,6 @@
+/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorViewController.m: In function '-[TipCalculatorViewController CalculateTip]':
+/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorViewController.m:20: error: 'valid' undeclared (first use in this function)
+/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorViewController.m:20: error: (Each undeclared identifier is reported only once
+/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorViewController.m:20: error: for each function it appears in.)
+/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorViewController.m:20: error: 'newText' undeclared (first use in this function)
+/Users/preethi_sriram/IphoneApp/TipCalculator/Classes/TipCalculatorViewController.m:18: warning: unused variable 'amount_val'
