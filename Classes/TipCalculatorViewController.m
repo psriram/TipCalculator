@@ -15,7 +15,7 @@ int percent_value;
 
 
 - (void) CalculateTip{
-	float amount_val;
+	//float amount_val;
 	bool valid;
     valid=true;
 	//valid = [self TextIsValidValue:newText];
@@ -27,7 +27,7 @@ int percent_value;
 			Tip.text = [NSString stringWithFormat:@"%1.2f",total_val];	
 		}
 		else{
-			Tip.text = [NSString stringWithFormat:@"%f",5];
+			//Tip.text = [NSString stringWithFormat:@"%f",5];
 		}
 		
 	}
